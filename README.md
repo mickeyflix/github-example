@@ -1,1 +1,8 @@
-# github-example
+# PROJECT ON CAPSTON
+
+import pandas as pd
+import numpy as np
+
+print("HELLO CAPSTON PROJECT COUSRSE!")
+
+HELLO CAPSTON PROJECT COUSRSE!
